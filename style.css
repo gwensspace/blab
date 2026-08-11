@@ -25,6 +25,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 
@@ -63,7 +65,7 @@ html {
     .hero h2 {
       font-size: 2rem;
       color: #2b2f3c;
-      margin-top: 5rem;
+      margin-top: 3rem;
     }
     .hero p {
       font-size: 1.5rem;
@@ -172,6 +174,7 @@ h2 {
   margin-top: 5rem;
 }
 /* === Blog === */
+
 .blog-list {
   list-style: none;
   padding-left: 0;
@@ -179,7 +182,7 @@ h2 {
   margin-top: 3rem;
 }
 .blog-list li {
-  margin-bottom: 2rem;
+  margin-bottom: 5rem;
   font-size: 1.1rem;
 }
 .blog-list a {
@@ -190,10 +193,10 @@ h2 {
 
 .blog-post {
   background-color: #fafafa;
-  padding: 1.5rem;
+  padding: 3.5rem;
   border-left: 5px solid #98a4e1;
   margin-bottom: 2rem;
-  margin-top: 5rem;
+  margin-top: 9rem;
   border-radius: 8px;
   transition: box-shadow 0.3s ease;
 }
@@ -201,7 +204,7 @@ h2 {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 .blog-post h3 {
-  margin-top: 5rem;
+  margin-top: 3rem;
   color: #0077cc;
 }
 .blog-post em {
@@ -389,7 +392,7 @@ h2 {
   border: none;
   height: 2px;
   background-color: #0077cc;
-  margin-top: 2rem;
+  margin-top: 4rem;
   margin-bottom: 2rem;
   width: 60%;
 }
