@@ -158,15 +158,18 @@ footer {
 }
 /* === Layout === */
 
-<center>
+
 main {
   padding: 2rem;
   max-width: 960px;
   margin-top: 3rem;
+  
+  
 }
 section {
   margin-bottom: 3rem;
   margin-top: 5rem;
+  
 }
 h2 {
   padding-bottom: 0.3rem;
@@ -219,7 +222,7 @@ h2 {
   }
 
   header {
-    height: 60px;
+    height: fit-content;
   }
 
   .language-switcher {
@@ -248,7 +251,7 @@ h2 {
   
 
   .cosmic-intro  {
-    width: 95%;
+    width: fit-content;
     padding: 1.5rem;
     font-size: 1rem;
   }
