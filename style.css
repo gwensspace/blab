@@ -245,21 +245,8 @@ h2 {
     padding: 1rem 0;
   }
   
-  main {
-    padding: 3rem;
-  }
-  section {
-    margin-bottom: 2rem;
-  }
-  h1 {
-    font-size: 1.8rem;
-  }
-  h2 {
-    font-size: 1.5rem;
-  }
-  p {
-    font-size: 1rem;
-  }
+  
+
   .cosmic-intro  {
     width: 95%;
     padding: 1.5rem;
