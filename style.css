@@ -247,6 +247,18 @@ h2 {
     width: 95%;
     padding: 1rem 0;
   }
+
+    .cosmic-intro  {
+    width: auto;
+    padding: 1.5rem 0;
+    font-size: 1rem;
+
+  }
+
+    header.hero {
+    padding: 4rem 1.5rem;
+    height: auto;
+  }
   
   
 
