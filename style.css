@@ -28,7 +28,7 @@
     --background-image: url('https://www.transparenttextures.com/patterns/stardust.png');
     --color-text: #0f0e0e;
     --color-text-light: #0363d9;
-    --color-accent: #333d54;
+    --color-accent: #f8168b;
     --font-heading: 'Georgia', serif;
     --font-body: 'Segoe UI', 'Tahoma', Geneva, Verdana, sans-serif;
 }
@@ -132,14 +132,14 @@ nav ul li {
 }
 
 nav ul li a {
-    color: var(--color-text-light);
+    color: #0363d9;
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease;
 }
 
 nav ul li a:hover {
-    color: var(--color-accent);
+    color: #0363d9;
 }
 
 
@@ -195,7 +195,7 @@ nav ul li a:hover {
 /* Style all links */
 .nav-menu a {
   text-decoration: none;
-  color: var(--color-text-light);
+  color: #0363d9;
   padding: 0.5rem 0;
   display: block;
 }
