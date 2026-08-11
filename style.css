@@ -238,7 +238,7 @@ h2 {
   }
 
   .container {
-    width: 95%;
+    width: fixed;
     padding: 1rem 0;
   }
   
