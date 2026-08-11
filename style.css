@@ -234,14 +234,14 @@ h2 {
     justify-content: center;
     flex-wrap: wrap;
     padding: 0.5rem 0;
-    text-align: center;
   }
+
   nav ul li {
     margin: 0 0.8rem 0.5rem;
   }
 
   .container {
-    width: fixed;
+    width: 95%;
     padding: 1rem 0;
   }
   
@@ -260,8 +260,8 @@ h2 {
   p {
     font-size: 1rem;
   }
-  .cosmic-intro {
-    width: fixed;
+  .cosmic-intro  {
+    width: 95%;
     padding: 1.5rem;
     font-size: 1rem;
   }
@@ -351,7 +351,7 @@ h2 {
 }
 .cosmic-intro {
   max-width: 800px;
-  width: fixed;
+  width: 95%;
   text-align: center;
   background: linear-gradient(135deg, #b478f4, #64d5e4);
   border-radius: 12px;
@@ -392,7 +392,7 @@ h2 {
   border: none;
   height: 2px;
   background-color: #0077cc;
-  margin-top: 4rem;
+  margin-top: 2rem;
   margin-bottom: 2rem;
   width: 60%;
 }
