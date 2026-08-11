@@ -263,6 +263,24 @@ h2 {
     margin-bottom: 2rem;
   }
 
+       header.hero {
+    padding: 4rem 1.5rem;
+    height: auto;
+  }
+  .hero h1 {
+    font-size: 2.2rem;
+    margin-top: 1.5rem;
+  }
+  .hero h2 {
+    font-size: 1.5rem;
+  }
+  .hero p {
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  #after .cosmic-intro under @media
+
 }
 /* === Scroll to Top Button === */
 #scrollToTop {
