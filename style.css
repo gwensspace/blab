@@ -222,7 +222,7 @@ h2 {
   }
 
   header {
-    height: fit-content;
+    height: 60px;
   }
 
   .language-switcher {
@@ -251,25 +251,15 @@ h2 {
   
 
   .cosmic-intro  {
-    width: fit-content;
-    padding: 1.5rem;
+    width: auto;
+    padding: 1.5rem 0;
     font-size: 1rem;
+    gap: 0.5rem;
+    align-items: center;
+    margin: 0;
+    flex-direction: column;
   }
-    header.hero {
-    padding: 4rem 1.5rem;
-    height: auto;
-  }
-  .hero h1 {
-    font-size: 2.2rem;
-    margin-top: 1.5rem;
-  }
-  .hero h2 {
-    font-size: 1.5rem;
-  }
-  .hero p {
-    font-size: 1rem;
-    margin-bottom: 1.5rem;
-  }
+
 }
 /* === Scroll to Top Button === */
 #scrollToTop {
@@ -341,12 +331,12 @@ h2 {
 }
 .cosmic-intro {
   max-width: 800px;
-  width: 95%;
-  text-align: center;
+  width: 90%;
+  text-align: justify;
   background: linear-gradient(135deg, #b478f4, #64d5e4);
   border-radius: 12px;
-  padding: 2rem;
-  margin: 2rem auto;
+  padding: 2rem 0;
+  margin: 0 auto;
   color: #2c2c2c;
   font-size: 1.1rem;
   line-height: 1.6;
