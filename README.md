@@ -3,7 +3,7 @@
 <br>
 I have been told I should write a book, blog, create content, etc. and share my life many, many times.
 
-I don't consider myself any of those, so I figured I would create this site and try to just tell my lived
+I don't consider myself a writer, an artist, content creator, creative, etc. so I figured I would create this site and try to just tell my lived
 experiences- informally, let people in, connect and hopefully inspire at least someone.
 <br>
 <h3>Key Features:</h3>
